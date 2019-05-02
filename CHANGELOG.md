@@ -3,7 +3,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [1.3](https://github.comcast.com/VariousArtists/RepoTest/compare/v1.2...dev) - [Unreleased]
+## [1.4](https://github.comcast.com/VariousArtists/RepoTest/compare/v1.3...dev) - [Unreleased]
+
+## [1.3](https://github.comcast.com/VariousArtists/RepoTest/compare/v1.2...v1.3) - 2019-05-02
 
 ## [1.2](https://github.comcast.com/VariousArtists/RepoTest/compare/v1.1...v1.2) - 2019-05-02
 
