@@ -3,7 +3,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [1.8](https://github.com/CCCSV/RepoTest/compare/v1.7...dev) - [Unreleased]
+## [1.9](https://github.com/CCCSV/RepoTest/compare/v1.8...dev) - [Unreleased]
+
+## [1.8](https://github.com/CCCSV/RepoTest/compare/v1.7...v1.8) - 2019-05-02
 
 ## [1.7](https://github.com/CCCSV/RepoTest/compare/v1.6...v1.7) - 2019-05-02
 
