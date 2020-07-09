@@ -3,7 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [1.10](https://github.com/CCCSV/RepoTest/compare/v1.9...dev) - [Unreleased]
+## [1.11](https://github.com/CCCSV/RepoTest/compare/v1.10.0...dev) - [Unreleased]
+
+## [1.10](https://github.com/CCCSV/RepoTest/compare/v1.9...v1.10.0) - 2020-07-09
+Blah blah blah
 
 ## [1.9](https://github.com/CCCSV/RepoTest/compare/v1.8...v1.9) - 2019-05-02
 
